@@ -10,6 +10,8 @@ NodeJS is required along with the following modules
 - request
 - yargs
 
+<code>npm install request yargs</code>
+
 ## Usage
 
 List available sensors:
